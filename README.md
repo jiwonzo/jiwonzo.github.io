@@ -1,10 +1,15 @@
 
 <html>
+    <head>
+        <script>
+            alert("니 누기야");
+            </script>
+   
     <body>
-    <h2> 눌러보세용</h2> 
+    <h2> ㅎㅎ</h2> 
 
     
-    <a href="https://youtu.be/G7QME0bzZuA">clik clik</a>
+    <a href="https://youtu.be/G7QME0bzZuA">눌러보세용</a>
     </body>
-
+</head>
 </html>
